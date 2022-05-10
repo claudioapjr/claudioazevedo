@@ -2,8 +2,8 @@ Parafuso Estribo,Rabeta,Raio,Aro Roda
 Rolamento,Pistao,Guia Corrente Comando,Valvula Admissao
 Cabo Freio,Cabo Acelerador,Carcaca Acelerador
 Kit Tracao,Oleo Motor
-Retrovisor, aro roda
-CapaChuva
+Retrovisor,aro roda
+Capa Chuva
 Parafuso Rabeta,Parafuso Flange, parafuso estribo
 Capa Chuva
 Cavalete Lateral,Estribo Central,Borracha Estribo,Mola Cavalete Lateral
