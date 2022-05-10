@@ -1,12 +1,12 @@
-ParafusoEstribo,Rabeta,Raio,AroRoda
-Rolamento,Pistao,GuiaCorrenteComando,ValvulaAdmissao
-CaboFreio,CaboAcelerador,CarcacaAcelerador
-KitTracao,OleoMotor
+Parafuso Estribo,Rabeta,Raio,Aro Roda
+Rolamento,Pistao,Guia Corrente Comando,Valvula Admissao
+Cabo Freio,Cabo Acelerador,Carcaca Acelerador
+Kit Tracao,Oleo Motor
 Retrovisor
 CapaChuva
-ParafusoRabeta,ParafusoFlange
-CapaChuva
-CavaleteLateral,EstriboCentral,BorrachaEstribo,MolaCavaleteLateral
-Estopa,FitaIsolante,RetentorBengala,Abracadeira
-CamaraAr
-OleoMotor
+Parafuso Rabeta,Parafuso Flange
+Capa Chuva
+Cavalete Lateral,Estribo Central,Borracha Estribo,Mola Cavalete Lateral
+Estopa,Fita Isolante,Retentor Bengala,Abracadeira
+Camara Ar
+Oleo Motor
