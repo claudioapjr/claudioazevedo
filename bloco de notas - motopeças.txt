@@ -4,7 +4,7 @@ Cabo Freio,Cabo Acelerador,Carcaca Acelerador
 Kit Tracao,Oleo Motor
 Retrovisor
 CapaChuva
-Parafuso Rabeta,Parafuso Flange, partafuso estribo
+Parafuso Rabeta,Parafuso Flange, parafuso estribo
 Capa Chuva
 Cavalete Lateral,Estribo Central,Borracha Estribo,Mola Cavalete Lateral
 Estopa,Fita Isolante,Retentor Bengala,Abracadeira
